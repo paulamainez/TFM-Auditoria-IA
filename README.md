@@ -59,8 +59,11 @@ Este prototipo ha sido diseñado alineándose con los requerimientos de la Norma
 
 ## 👨‍🎓 Autoría y Contexto Académico
 Autora: Paula Mainez Herraiz
+
 Tutor: Leonardo Dulccetti
+
 Institución: Universidad Alfonso X el Sabio (UAX)
+
 Fecha: Junio 2026
 
 
